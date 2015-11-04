@@ -245,13 +245,13 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(../shini2.jpg); 
+  background-image: url(img/carousel/shini2.jpg); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(../shini.jpg);
+  background-image: url(img/carousel/shini.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(../shini3.jpg);
+  background-image: url(img/carousel/shini3.jpg);
 }
 
 /********************************/
