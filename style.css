@@ -293,9 +293,12 @@ Image credits: unsplash.com
 
 
 #vidWrapper{  
-     margin-right: -13%;
+  /*   margin-right: -13%;
     padding-top: 1%;
-    padding-bottom: 2%;
+    padding-bottom: 2%;*/
+    /*margin-left: 10%;*/
+    padding-bottom: 6%;
+    padding-top: 3%;
 }
 
 
@@ -744,7 +747,7 @@ scroll {  0% {
     height: 373px;
     float:left;    
     position: relative;
-    padding-bottom: 47%;
+    padding-bottom: 41%;
     margin-top:5%;
 }
 
@@ -1052,7 +1055,7 @@ color: #282a2e;
 .testimonial_section h1{
  text-transform: uppercase;
  font-weight: 600;
- margin-left:10%;
+ /*margin-left:4%;*/
 }
 
 
@@ -1078,7 +1081,7 @@ color: #282a2e;
     display:none;
   }
 
- 
+
   }
 
 }
@@ -1102,6 +1105,8 @@ color: #282a2e;
   color:white;
   background: blue;  
   cursor:pointer;
+  border:solid 4px blue;
+  outline: 1px solid #dddddd;
   -webkit-transition:  ease-out .5s;
   -moz-transition:  ease-out .5s;
   -o-transition:  ease-out .5s;
