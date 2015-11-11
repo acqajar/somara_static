@@ -369,7 +369,10 @@ Image credits: unsplash.com
 
 
 
-
+.blogImg{
+  width:330px;
+  height:200px;
+}
 
 .open-nav { max-height: 400px !important; }
 
