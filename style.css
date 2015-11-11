@@ -394,8 +394,9 @@ Image credits: unsplash.com
 }
 
 .logo {
-  /*padding-top: 17px;*/   
-  padding-top:1%; 
+  /*padding-top: 17px;*/  
+  padding-left:2%; 
+  padding-top:0.5%; 
   width: 50px;
   font-size: 25px;
   color: #3498db;
