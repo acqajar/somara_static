@@ -250,7 +250,8 @@ Image credits: unsplash.com
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(img/carousel/shini2.jpg); 
+  background-image: url(img/carousel/shiniOld.jpg);
+
 }
 .fade-carousel .slides .slide-2 {
   background-image: url(img/carousel/shini.jpg);
